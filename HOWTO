@@ -1,0 +1,2 @@
+erlc hello.erl
+erl -run hello hello_jd
